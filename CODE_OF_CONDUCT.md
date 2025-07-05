@@ -11,6 +11,5 @@ If you have questions or request moderation, you can contact the following moder
 via their Discord handles or via e-mail.  
 Please do so in private, not in a public channel.
 
-* cuddlefishie (lara.fishie@gmail.com)
 * Jacobsky
 * bromeon
